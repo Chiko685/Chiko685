@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Ika!
 👩🏻‍💻 I am a Biotechnology graduate with hands-on experience in research, data analysis, and coding fundamentals gained during my
 master’s studies and professional training.<br/>
-👩🏻‍🎓 Studied [Master's degree Biotechnology, Bachelor's degree Food Technology] at the University of Jember, Indonesia<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+👩🏻‍🎓 Studied Master's degree Biotechnology, Bachelor's degree Food Technology at the University of Jember, Indonesia<br/>
+💭 Currently improving my skills as [data analytic and data scientist](https://stic.asuengineeringonline.com/) at Coursera and [Pacmann Academy](https://pacmann.io/)!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
