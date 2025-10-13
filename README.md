@@ -6,6 +6,8 @@ master’s studies and professional training.<br/>
 
 # [View Resume](https://drive.google.com/file/d/1D4M4YybmI76pqOIDDxYszcYzS7dSX-RM/view?usp=sharing)
 
+[LinkedIn](https://www.linkedin.com/in/ika-w888/) [Email](ika.wahyuni685@gmail.com)
+
 # 💻 Languages and Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
@@ -16,3 +18,8 @@ master’s studies and professional training.<br/>
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
+# Featured Projects
+
+
