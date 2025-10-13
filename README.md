@@ -4,6 +4,7 @@ master’s studies and professional training.<br/>
 👩🏻‍🎓 Studied Master's degree Biotechnology, Bachelor's degree Food Technology at the University of Jember, Indonesia<br/>
 💭 Currently improving my skills as Data Analyst and Data Science  at [Coursera](https://stic.asuengineeringonline.com/) and [Pacmann Academy](https://pacmann.io/)!<br/>
 
+test
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
