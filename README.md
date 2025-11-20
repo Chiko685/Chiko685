@@ -19,6 +19,12 @@ master’s studies and professional training.<br/>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-# Featured Projects
+# Projects
+
+| Nama Project | Link Repo |
+| :--- | :--- |
+| Nama Proyek A | [Link ke Repo A](https://github.com/username/repo-a) |
+| Nama Proyek B | [Link ke Repo B](https://github.com/username/repo-b) |
+| Nama Proyek C | [Link ke Repo C](https://github.com/username/repo-c) |
 
 
