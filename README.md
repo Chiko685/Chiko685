@@ -23,7 +23,16 @@ master’s studies and professional training.<br/>
 | Nama Project | Link Repo |
 | :--- | :--- |
 | Portfolio Ika | [Link]([https://github.com/username/repo-a](https://github.com/Chiko685/Portfolio-.git)) |
-| Project 1 - Retail | [Project 1 kaggle api-python-sql](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/project%201%20python-sql-kaggle%20api) |
-| Nama Proyek C | [Project 2 Dashboard using Excel](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/project%203%20-Excel) |
+| Project 1 | [kaggle api-python-sql](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/project%201%20python-sql-kaggle%20api) |
+| Project 2 | [Dashboard using Excel](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/project%203%20-Excel) |
+| Project 3 | [IBM Capstone project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/Data%20Analyst%20Capstone%20project) |
+| Project 4 | [Netflix-SQL](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%207%20NETFLIX)
+| Project 5 | [AWS S3, lambda, glue, Athena](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%204%20AWS%20ETL%20Pipeline%20Project)
+| Project 6 | [COVID visualization using python](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%208%20covid)
+| Project 7 | [Uber EDA & Visualization using Python](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/blob/04c1cb2c375381d76fbe43e023c3d2de866514d3/Uber.ipynb)
+| Project 8 | [Pizza Sales SQL-Tableau Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%209%20Pizza%20sales%20Tableau%20%26%20SQL%20Project)
+| Project 9 | [Data Visualization Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%2010%20Data%20Visualization)
+| Project 10 | [Maven Fuzzy SQL Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/a4861d77967b2b3c010646d47d417ec406eebe6d/project%2013%20maven%20fuzzy)
+
 
 
