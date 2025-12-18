@@ -22,7 +22,7 @@ master’s studies and professional training.<br/>
 
 | Nama Project | Link Repo |
 | :--- | :--- |
-| Portfolio Ika | [Link](https://github.com/Chiko685/Portfolio-.git) |
+| Portfolio Ika | [Link Portfolio](https://github.com/Chiko685/Portfolio-.git) |
 | Project 1 | [kaggle api-python-sql](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/project%201%20python-sql-kaggle%20api) |
 | Project 2 | [Dashboard using Excel](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/project%203%20-Excel) |
 | Project 3 | [IBM Capstone project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/Data%20Analyst%20Capstone%20project) |
