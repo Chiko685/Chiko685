@@ -33,6 +33,8 @@ master’s studies and professional training.<br/>
 | Project 8 | [Pizza Sales SQL-Tableau Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%209%20Pizza%20sales%20Tableau%20%26%20SQL%20Project)
 | Project 9 | [Data Visualization Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%2010%20Data%20Visualization)
 | Project 10 | [Maven Fuzzy SQL Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/a4861d77967b2b3c010646d47d417ec406eebe6d/project%2013%20maven%20fuzzy)
+| Project 11 | [Supply Chain Performance Dashboard](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/1491a5969f99923da3291cf5b2631f5cc090cf17/project%2014%20supply%20chain)
+| Project 12 | [Predictive Modeling of Vehicle CO₂](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/1491a5969f99923da3291cf5b2631f5cc090cf17/project%20simple%20linear%20regression) |
 
 
 
