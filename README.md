@@ -23,7 +23,7 @@ master’s studies and professional training.<br/>
 | Nama Project | Link Repo |
 | :--- | :--- |
 | Portfolio Ika | [Link Portfolio](https://github.com/Chiko685/Portfolio-.git) |
-| Project 1 | [kaggle api-python-sql]([https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/project%201%20python-sql-kaggle%20api](https://github.com/Chiko685/kaggle-api-python-sql/blob/30ab7664a0420d3808e76835b2686fdf53e4f23f/README.md)) |
+| Project 1 | [kaggle api-python-sql](https://github.com/Chiko685/kaggle-api-python-sql/blob/30ab7664a0420d3808e76835b2686fdf53e4f23f/README.md) |
 | Project 2 | [Dashboard using Excel](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/project%203%20-Excel) |
 | Project 3 | [IBM Capstone project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/Data%20Analyst%20Capstone%20project) |
 | Project 4 | [Netflix-SQL](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%207%20NETFLIX)
