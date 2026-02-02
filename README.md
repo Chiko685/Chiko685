@@ -26,10 +26,10 @@ master’s studies and professional training.<br/>
 | Project 1 | [kaggle api-python-sql](https://github.com/Chiko685/kaggle-api-python-sql/blob/30ab7664a0420d3808e76835b2686fdf53e4f23f/README.md) |
 | Project 2 | [Sales & Profit Dashboard using Excel](https://github.com/Chiko685/Sales-Profit-Dashboard-in-Excel/blob/d61ae8558f34dd553d12be8c896fb2cc7aa3940b/README.md) |
 | Project 3 | [IBM Capstone project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/3bba1ce82561b7c9df76c2bbcc73a9f3bd3f6ed5/Data%20Analyst%20Capstone%20project) |
-| Project 4 | [Netflix-SQL](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%207%20NETFLIX)
+| Project 4 | [Netflix-SQL](https://github.com/Chiko685/Netflix-Data-Analyst-Project-Python-SQL-.git)
 | Project 5 | [AWS S3, lambda, glue, Athena](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%204%20AWS%20ETL%20Pipeline%20Project)
-| Project 6 | [COVID visualization using python](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%208%20covid)
-| Project 7 | [Uber EDA & Visualization using Python](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/blob/04c1cb2c375381d76fbe43e023c3d2de866514d3/Uber.ipynb)
+| Project 6 | [COVID visualization using python](https://github.com/Chiko685/Covid-Analysis-using-Python.git)
+| Project 7 | [Uber New York City using Python](https://github.com/Chiko685/Uber-New-York-City-Data-Analysis/blob/3cb1e34ce06758be495d49ffcc0f56e47959c710/README.md)
 | Project 8 | [Pizza Sales SQL-Tableau Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%209%20Pizza%20sales%20Tableau%20%26%20SQL%20Project)
 | Project 9 | [Data Visualization Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/04c1cb2c375381d76fbe43e023c3d2de866514d3/project%2010%20Data%20Visualization)
 | Project 10 | [Maven Fuzzy SQL Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/a4861d77967b2b3c010646d47d417ec406eebe6d/project%2013%20maven%20fuzzy)
