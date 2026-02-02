@@ -22,16 +22,16 @@ master’s studies and professional training.<br/>
 
 | Nama Project | Link Repo |
 | :--- | :--- |
-| Project 1 | [kaggle api-python-sql]([https://github.com/Chiko685/kaggle-api-python-sql/blob/30ab7664a0420d3808e76835b2686fdf53e4f23f/README.md](https://github.com/Chiko685/kaggle-api-python-sql.git)) |
+| Project 1 | [kaggle api-python-sql](https://github.com/Chiko685/kaggle-api-python-sql.git) |
 | Project 2 | [Sales & Profit Dashboard using Excel](https://github.com/Chiko685/Sales-Profit-Dashboard-in-Excel.git) |
 | Project 3 | [Netflix-SQL](https://github.com/Chiko685/Netflix-Data-Analyst-Project-Python-SQL-.git)
 | Project 4 | [AWS JSON Flattening - ETL Pipeline](https://github.com/Chiko685/AWS-JSON-Flattening-ETL-Pipeline.git)
-| Project 5 | [COVID visualization using python]([https://github.com/Chiko685/Covid-Analysis-using-Python.git](https://github.com/Chiko685/Covid-Analysis-using-Python.git))
+| Project 5 | [COVID visualization using python](https://github.com/Chiko685/Covid-Analysis-using-Python.git)
 | Project 6 | [Uber New York City using Python](https://github.com/Chiko685/Uber-New-York-City-Data-Analysis.git)
 | Project 7 | [Pizza Sales SQL-Tableau Project](https://github.com/Chiko685/Pizza-Sales-SQL-Tableau-Project.git)
 | Project 8 | [Maven Fuzzy SQL Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/a4861d77967b2b3c010646d47d417ec406eebe6d/project%2013%20maven%20fuzzy)
 | Project 9 | [Supply Chain Performance Dashboard](https://github.com/Chiko685/Supply-Chain-Performance-Dashboard-.git)
-| Project 10 | [Analysis Benchmarking Instagram]([https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-/blob/38b7799a636686be046d776bd0c7b9a6440c3101/README.md](https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-.git)) |
+| Project 10 | [Analysis Benchmarking Instagram](https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-.git) |
 | Project 11 | [Simple Linear Regression- Fuel Consumption & Emissions Analysis](https://github.com/Chiko685/Simple-Linear-Regression-Fuel-Consumption-Emissions-Analysis.git) |
 
 
