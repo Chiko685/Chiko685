@@ -22,7 +22,6 @@ master’s studies and professional training.<br/>
 
 | Nama Project | Link Repo |
 | :--- | :--- |
-| Portfolio Ika | [Link Portfolio](https://github.com/Chiko685/Portfolio-.git) |
 | Project 1 | [kaggle api-python-sql](https://github.com/Chiko685/kaggle-api-python-sql/blob/30ab7664a0420d3808e76835b2686fdf53e4f23f/README.md) |
 | Project 2 | [Sales & Profit Dashboard using Excel](https://github.com/Chiko685/Sales-Profit-Dashboard-in-Excel/blob/d61ae8558f34dd553d12be8c896fb2cc7aa3940b/README.md) |
 | Project 3 | [Netflix-SQL](https://github.com/Chiko685/Netflix-Data-Analyst-Project-Python-SQL-.git)
