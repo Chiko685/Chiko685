@@ -33,6 +33,7 @@ master’s studies and professional training.<br/>
 | Project 9 | [Supply Chain Performance Dashboard](https://github.com/Chiko685/Supply-Chain-Performance-Dashboard-.git)
 | Project 10 | [Analysis Benchmarking Instagram](https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-.git) |
 | Project 11 | [Simple Linear Regression- Fuel Consumption & Emissions Analysis](https://github.com/Chiko685/Simple-Linear-Regression-Fuel-Consumption-Emissions-Analysis.git) |
+| Project 12 | [Marketing Analytics - Website Performance & A/B Testing](https://github.com/Chiko685/Marketing-Analytics---Maven-Fuzzy-Factory.git) |
 
 
 
