@@ -2,7 +2,7 @@
 👩🏻‍💻 I am a Biotechnology graduate with hands-on experience in research, data analysis, and coding fundamentals gained during my
 master’s studies and professional training.<br/>
 👩🏻‍🎓 Studied Master's degree Biotechnology, Bachelor's degree Food Technology at the University of Jember, Indonesia<br/>
-💭 Currently improving my skills as Data Analyst and Data Science  at [Coursera](https://stic.asuengineeringonline.com/) and [Pacmann Academy](https://pacmann.io/)!<br/>
+💭 Currently improving my skills at [Coursera](https://stic.asuengineeringonline.com/) and [Pacmann Academy](https://pacmann.io/)!<br/>
 
 # [View Resume](https://drive.google.com/file/d/1D4M4YybmI76pqOIDDxYszcYzS7dSX-RM/view?usp=sharing)
 
