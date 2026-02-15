@@ -34,7 +34,7 @@ master’s studies and professional training.<br/>
 | Project 10 | [Analysis Benchmarking Instagram](https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-.git) |
 | Project 11 | [Simple Linear Regression- Fuel Consumption & Emissions Analysis](https://github.com/Chiko685/Simple-Linear-Regression-Fuel-Consumption-Emissions-Analysis.git) |
 | Project 12 | [Marketing Analytics - E-commerce Growth Analytics: Optimizing Traffic and Conversion Performance for Maven Fuzzy Factory](https://github.com/Chiko685/Marketing-Analytics---Maven-Fuzzy-Factory.git) |
-| Project 13 | [2. Marketing Analytics Dashboard for Evaluating Ad Performance Using CTR, CPC, CPM, and Ad Recall Lift](https://github.com/Chiko685/Marketing-Analytics---Maven-Fuzzy-Factory.git) |
+| Project 13 | [Marketing Analytics Dashboard for Evaluating Ad Performance Using CTR, CPC, CPM, and Ad Recall Lift](https://github.com/Chiko685/2.-Marketing-Analytics-Dashboard-for-Evaluating-Ad-Performance-Using-CTR-CPC-CPM-and-Ad-Recall-Lift.git) |
 
 
 
