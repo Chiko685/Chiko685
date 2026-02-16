@@ -6,7 +6,7 @@ master’s studies and professional training.<br/>
 
 # [View Resume](https://drive.google.com/file/d/1D4M4YybmI76pqOIDDxYszcYzS7dSX-RM/view?usp=sharing)
 
-[LinkedIn](https://www.linkedin.com/in/ika-w888/) [Email](ika.wahyuni685@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ika-w888/) [Email](ikawahyuniftp.com)
 
 # 💻 Languages and Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -30,11 +30,12 @@ master’s studies and professional training.<br/>
 | Project 6 | [Uber New York City using Python](https://github.com/Chiko685/Uber-New-York-City-Data-Analysis.git)
 | Project 7 | [Pizza Sales SQL-Tableau Project](https://github.com/Chiko685/Pizza-Sales-SQL-Tableau-Project.git)
 | Project 8 | [Demand Forecasting: Simple-Naive-Forecast-Seasonal-naive-Forecast-ARIMA-Model](https://github.com/Chiko685/Demand-Forecasting-Simple-Naive-Forecast-Seasonal-naive-Forecast-ARIMA-Model-.git)
-| Project 9 | [Supply Chain Performance Dashboard](https://github.com/Chiko685/Supply-Chain-Performance-Dashboard-.git)
-| Project 10 | [Analysis Benchmarking Instagram](https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-.git) |
-| Project 11 | [Simple Linear Regression- Fuel Consumption & Emissions Analysis](https://github.com/Chiko685/Simple-Linear-Regression-Fuel-Consumption-Emissions-Analysis.git) |
-| Project 12 | [Advanced SQL Performance Analytics: Optimizing Traffic and Conversion Performance for Maven Fuzzy Factory](https://github.com/Chiko685/Marketing-Analytics---Maven-Fuzzy-Factory.git) |
-| Project 13 | [Marketing Analytics Dashboard for Evaluating Ad Performance Using CTR, CPC, CPM, and Ad Recall Lift](https://github.com/Chiko685/2.-Marketing-Analytics-Dashboard-for-Evaluating-Ad-Performance-Using-CTR-CPC-CPM-and-Ad-Recall-Lift.git) |
+| Project 9 | [Sales Forecasting using Seasonal Naive Bayes, ARIMA and SARIMAX](https://github.com/Chiko685/Sales-Demand-Forecasting-Using-ARIMA-SARIMAX.git)
+| Project 10 | [Supply Chain Performance Dashboard](https://github.com/Chiko685/Supply-Chain-Performance-Dashboard-.git)
+| Project 11 | [Analysis Benchmarking Instagram](https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-.git) |
+| Project 12 | [Simple Linear Regression- Fuel Consumption & Emissions Analysis](https://github.com/Chiko685/Simple-Linear-Regression-Fuel-Consumption-Emissions-Analysis.git) |
+| Project 13 | [Advanced SQL Performance Analytics: Optimizing Traffic and Conversion Performance for Maven Fuzzy Factory](https://github.com/Chiko685/Marketing-Analytics---Maven-Fuzzy-Factory.git) |
+| Project 14 | [Marketing Analytics Dashboard for Evaluating Ad Performance Using CTR, CPC, CPM, and Ad Recall Lift](https://github.com/Chiko685/2.-Marketing-Analytics-Dashboard-for-Evaluating-Ad-Performance-Using-CTR-CPC-CPM-and-Ad-Recall-Lift.git) |
 
 
 
