@@ -29,7 +29,7 @@ master’s studies and professional training.<br/>
 | Project 5 | [COVID visualization using python](https://github.com/Chiko685/Covid-Analysis-using-Python.git)
 | Project 6 | [Uber New York City using Python](https://github.com/Chiko685/Uber-New-York-City-Data-Analysis.git)
 | Project 7 | [Pizza Sales SQL-Tableau Project](https://github.com/Chiko685/Pizza-Sales-SQL-Tableau-Project.git)
-| Project 8 | [Maven Fuzzy SQL Project](https://github.com/Chiko685/Ika-Learning-Journey-with-Python/tree/a4861d77967b2b3c010646d47d417ec406eebe6d/project%2013%20maven%20fuzzy)
+| Project 8 | [Demand Forecasting: Simple-Naive-Forecast-Seasonal-naive-Forecast-ARIMA-Model](https://github.com/Chiko685/Demand-Forecasting-Simple-Naive-Forecast-Seasonal-naive-Forecast-ARIMA-Model-.git)
 | Project 9 | [Supply Chain Performance Dashboard](https://github.com/Chiko685/Supply-Chain-Performance-Dashboard-.git)
 | Project 10 | [Analysis Benchmarking Instagram](https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-.git) |
 | Project 11 | [Simple Linear Regression- Fuel Consumption & Emissions Analysis](https://github.com/Chiko685/Simple-Linear-Regression-Fuel-Consumption-Emissions-Analysis.git) |
