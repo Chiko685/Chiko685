@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ika!
-👩🏻‍💻 I am a Biotechnology graduate with hands-on experience in research, data analysis, and coding fundamentals gained during my
+👩🏻‍💻 I am an entry-level Data Analyst with hands-on experience in research, data analysis, and coding fundamentals gained during my
 master’s studies and professional training.<br/>
 👩🏻‍🎓 Studied Master's degree Biotechnology, Bachelor's degree Food Technology at the University of Jember, Indonesia<br/>
 💭 Currently improving my skills at [Coursera](https://stic.asuengineeringonline.com/) and [Pacmann Academy](https://pacmann.io/)!<br/>
@@ -36,6 +36,8 @@ master’s studies and professional training.<br/>
 | Project 12 | [Simple Linear Regression- Fuel Consumption & Emissions Analysis](https://github.com/Chiko685/Simple-Linear-Regression-Fuel-Consumption-Emissions-Analysis.git) |
 | Project 13 | [Advanced SQL Performance Analytics: Optimizing Traffic and Conversion Performance for Maven Fuzzy Factory](https://github.com/Chiko685/Marketing-Analytics---Maven-Fuzzy-Factory.git) |
 | Project 14 | [Marketing Analytics Dashboard for Evaluating Ad Performance Using CTR, CPC, CPM, and Ad Recall Lift](https://github.com/Chiko685/2.-Marketing-Analytics-Dashboard-for-Evaluating-Ad-Performance-Using-CTR-CPC-CPM-and-Ad-Recall-Lift.git) |
+| Project 15 | [Customer Segmentation Using K-Means Clustering (Age, Income, Spending Score)](https://github.com/Chiko685/Customer-Segmentation-using-K-Means-Clustering.git) |
+
 
 
 
