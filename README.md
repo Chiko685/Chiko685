@@ -37,6 +37,7 @@ master’s studies and professional training.<br/>
 | Project 13 | [Advanced SQL Performance Analytics: Optimizing Traffic and Conversion Performance for Maven Fuzzy Factory](https://github.com/Chiko685/Marketing-Analytics---Maven-Fuzzy-Factory.git) |
 | Project 14 | [Marketing Analytics Dashboard for Evaluating Ad Performance Using CTR, CPC, CPM, and Ad Recall Lift](https://github.com/Chiko685/2.-Marketing-Analytics-Dashboard-for-Evaluating-Ad-Performance-Using-CTR-CPC-CPM-and-Ad-Recall-Lift.git) |
 | Project 15 | [Customer Segmentation Using K-Means Clustering (Age, Income, Spending Score)](https://github.com/Chiko685/Customer-Segmentation-using-K-Means-Clustering.git) |
+| Project 16 | [Turning Raw Data into Marketing Insights: SQL RFM Segmentation + Tableau Sales Dashboard](https://github.com/Chiko685/Turning-Data-into-Marketing-Insights-SQL-RFM-Segmentation-Tableau-Sales-Dashboard.git)  |
 
 
 
