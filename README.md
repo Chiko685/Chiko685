@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ika!
 👩🏻‍💻 I am an entry-level Data Analyst with hands-on experience in research, data analysis, and coding fundamentals gained during my
-master’s studies and professional training.<br/>
-👩🏻‍🎓 Studied Master's degree Biotechnology, Bachelor's degree Food Technology at the University of Jember, Indonesia<br/>
+bootcamps, professional trainings and portfolio projects.<br/>
+👩🏻‍🎓 Studied Bachelor's degree Food Technology at the University of Jember, Indonesia<br/>
 💭 Currently improving my skills at [Coursera](https://stic.asuengineeringonline.com/) and [Pacmann Academy](https://pacmann.io/)!<br/>
 
 # [View Resume](https://drive.google.com/file/d/1D4M4YybmI76pqOIDDxYszcYzS7dSX-RM/view?usp=sharing)
