@@ -4,9 +4,11 @@ bootcamps, professional trainings and portfolio projects.<br/>
 👩🏻‍🎓 Studied Bachelor's degree Food Technology at the University of Jember, Indonesia<br/>
 💭 Currently improving my skills at [Coursera](https://stic.asuengineeringonline.com/) and [Pacmann Academy](https://pacmann.io/)!<br/>
 
-# Job Simulation and Internship
+# Job Simulations and Internships
 <img width="559" height="308" alt="Screenshot 2026-03-21 at 02 04 33" src="https://github.com/user-attachments/assets/fbe4ab8a-3979-4bc0-a4e9-a81fafbc6c77" />
 
+# Work Experiences
+<img width="559" height="405" alt="Screenshot 2026-03-21 at 02 07 19" src="https://github.com/user-attachments/assets/4f1af97d-c0fc-4179-a27f-1eaa5385f4c2" />
 
 
 # [LinkedIn](https://www.linkedin.com/in/ika-w888/) [Email](ikawahyuniftp.com)
@@ -41,6 +43,7 @@ bootcamps, professional trainings and portfolio projects.<br/>
 | Project 14 | [Marketing Analytics Dashboard for Evaluating Ad Performance Using CTR, CPC, CPM, and Ad Recall Lift](https://github.com/Chiko685/2.-Marketing-Analytics-Dashboard-for-Evaluating-Ad-Performance-Using-CTR-CPC-CPM-and-Ad-Recall-Lift.git) |
 | Project 15 | [Customer Segmentation Using K-Means Clustering (Age, Income, Spending Score)](https://github.com/Chiko685/Customer-Segmentation-using-K-Means-Clustering.git) |
 | Project 16 | [Turning Raw Data into Marketing Insights: SQL RFM Segmentation + Tableau Sales Dashboard](https://github.com/Chiko685/Turning-Data-into-Marketing-Insights-SQL-RFM-Segmentation-Tableau-Sales-Dashboard.git)  |
+| Project 17 | [A/B Testing: Marketing Campaign & Funnel Analysis (Tableau)](https://github.com/Chiko685/Turning-Data-into-Marketing-Insights-SQL-RFM-Segmentation-Tableau-Sales-Dashboard.git)  |
 
 
 
