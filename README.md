@@ -4,11 +4,13 @@ bootcamps, professional trainings and portfolio projects.<br/>
 👩🏻‍🎓 Studied Bachelor's degree Food Technology at the University of Jember, Indonesia<br/>
 💭 Currently improving my skills at [Coursera](https://stic.asuengineeringonline.com/) and [Pacmann Academy](https://pacmann.io/)!<br/>
 
-# [Job Simulation and Internship]
+# Job Simulation and Internship
 15/01/2026 – 02/2026 
 Job Simulation : Deloitte Australia & Quantium - Data Analytics 2026 
 • Completed a Deloitte job simulation involving data analysis
+
 • Prepare reports, dashboards through data visualization using Tableau
+
 • Analyze operational data to identify trends, issues, and improvement opportunities
 
 10/2025 – 12/2025 
