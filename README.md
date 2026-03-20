@@ -5,43 +5,8 @@ bootcamps, professional trainings and portfolio projects.<br/>
 💭 Currently improving my skills at [Coursera](https://stic.asuengineeringonline.com/) and [Pacmann Academy](https://pacmann.io/)!<br/>
 
 # Job Simulation and Internship
-15/01/2026 – 02/2026 
-Job Simulation : Deloitte Australia & Quantium - Data Analytics 2026 
+<img width="559" height="308" alt="Screenshot 2026-03-21 at 02 04 33" src="https://github.com/user-attachments/assets/fbe4ab8a-3979-4bc0-a4e9-a81fafbc6c77" />
 
-• Completed a Deloitte job simulation involving data analysis
-
-• Prepare reports, dashboards through data visualization using Tableau
-
-• Analyze operational data to identify trends, issues, and improvement opportunities
-
-10/2025 – 12/2025 
-Social Media Data Analyst - The Key Kampung Inggris, Indonesia (Remote) 
-
-• Analyzed 350 Instagram posts from 7 English-learning competitors to benchmark engagement, posting patterns, and
-content themes using Meta Graph API
-
-• Processed datasets using Python and visualized insights in Tableau to identify best-performing content formats and strategies
-
-• Delivered actionable recommendations that highlight high-engagement content types and optimal posting frequency for
-Instagram content
-
-• Project name: Benchmarking Competitor Content for The Key English Course Using Data from Meta’s Instagram Graph
-API
-
-01/2023 – 09/2023 
-Content & Digital Marketing Specialist - Think Volunteer, Netherlands 
-
-• Wrote educational courses and gave feedback for Think Volunteer Academy (Sustainability, Social work, Culture etc.)
-
-• Developed course materials on positive impact, social work, culture, and sustainable traveling of volunteering abroad
-
-• Managed and edited website content using WordPress, including publishing SEO-optimized blog posts to improve search
-visibility
-
-• Designed images, infographics, and short-form videos for Instagram posts and other platforms using Canva, CapCut,
-Pixellab, and related content-creation tools
-
-• Contributed to a 13% growth in Instagram followers through targeted content strategies
 
 
 # [LinkedIn](https://www.linkedin.com/in/ika-w888/) [Email](ikawahyuniftp.com)
