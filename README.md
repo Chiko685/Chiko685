@@ -1,29 +1,4 @@
 # 👋 Hi, I'm Ika!
-👩🏻‍💻 I am an entry-level Data Analyst with hands-on experience in research, data analysis, and coding fundamentals gained during my
-bootcamps, professional trainings and portfolio projects.<br/>
-👩🏻‍🎓 Studied Bachelor's degree Food Technology at the University of Jember, Indonesia<br/>
-💭 Currently improving my skills at [Coursera](https://stic.asuengineeringonline.com/) and [Pacmann Academy](https://pacmann.io/)!<br/>
-
-# Job Simulations and Internships
-<img width="559" height="308" alt="Screenshot 2026-03-21 at 02 04 33" src="https://github.com/user-attachments/assets/fbe4ab8a-3979-4bc0-a4e9-a81fafbc6c77" />
-
-# Work Experiences
-<img width="559" height="405" alt="Screenshot 2026-03-21 at 02 07 19" src="https://github.com/user-attachments/assets/4f1af97d-c0fc-4179-a27f-1eaa5385f4c2" />
-
-
-# [LinkedIn](https://www.linkedin.com/in/ika-w888/) [Email](ikawahyuniftp.com)
-
-# 💻 Languages and Tools
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-# 👋 Hi, I'm Ika!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chiko685&color=blue&style=flat-square)
 
