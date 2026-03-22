@@ -85,6 +85,8 @@ Built time-series forecasting models (Naive, ARIMA, SARIMAX) to predict future s
 | 15 | [Customer Segmentation — K-Means](https://github.com/Chiko685/Customer-Segmentation-using-K-Means-Clustering.git) | Python | K-Means clustering by Age, Income, Spending Score |
 | 16 | [RFM Segmentation + Tableau Dashboard](https://github.com/Chiko685/Turning-Data-into-Marketing-Insights-SQL-RFM-Segmentation-Tableau-Sales-Dashboard.git) | SQL, PostgreSQL, Tableau | RFM customer segmentation + interactive sales dashboard |
 | 17 | [A/B Testing — Marketing Campaign & Funnel](https://github.com/Chiko685/A-B-Testing-Marketing-Campaign-Funnel-Analysis-Tableau-.git) | Tableau | Full funnel A/B test analysis comparing 2 ad campaigns |
+| 18 | [Customer Cohort Retention Analysis - Google BigQuery SQL + Tableau Dashboard](https://github.com/Chiko685/Customer-Cohort-Retention-Analysis---Bigquery-Tableau.git) | Big Query, Tableau | Google BigQuery for data cleaning and cohort calculation using Tableau |
+
 
 ---
 
