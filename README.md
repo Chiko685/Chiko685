@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ika!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chiko685&color=blue&style=flat-square)
+![Profile Views](https://www.linkedin.com/in/ika-w888/)
 
 👩🏻‍💻 Entry-level Data Analyst passionate about turning raw data into actionable insights<br/>
 🎯 Specialized in **SQL, Python & Tableau** | Interested in Data Analyst / Business Analyst roles<br/>
