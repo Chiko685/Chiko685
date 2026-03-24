@@ -68,24 +68,24 @@ Built time-series forecasting models (Naive, ARIMA, SARIMAX) to predict future s
 
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
-| 1 | [Kaggle API — Python & SQL](https://github.com/Chiko685/kaggle-api-python-sql.git) | Python, SQL | Automated data extraction pipeline using Kaggle API |
-| 2 | [Sales & Profit Dashboard](https://github.com/Chiko685/Sales-Profit-Dashboard-in-Excel.git) | Excel | P&L dashboard with pivot tables and dynamic charts |
-| 3 | [Netflix Data Analysis](https://github.com/Chiko685/Netflix-Data-Analyst-Project-Python-SQL-.git) | Python, SQL | Exploratory analysis of Netflix content library |
-| 4 | [AWS JSON Flattening — ETL Pipeline](https://github.com/Chiko685/AWS-JSON-Flattening-ETL-Pipeline.git) | Python, AWS | ETL pipeline to flatten and process nested JSON data |
-| 5 | [COVID Visualization](https://github.com/Chiko685/Covid-Analysis-using-Python.git) | Python, Matplotlib | Global COVID-19 trend visualization and analysis |
-| 6 | [Uber NYC Data Analysis](https://github.com/Chiko685/Uber-New-York-City-Data-Analysis.git) | Python | Ride pattern analysis across New York City |
-| 7 | [Pizza Sales — SQL & Tableau](https://github.com/Chiko685/Pizza-Sales-SQL-Tableau-Project.git) | SQL, Tableau | Sales analysis and dashboard for a pizza restaurant |
-| 8 | [Demand Forecasting — Naive & ARIMA](https://github.com/Chiko685/Demand-Forecasting-Simple-Naive-Forecast-Seasonal-naive-Forecast-ARIMA-Model-.git) | Python, ARIMA | Compared Simple Naive, Seasonal Naive, and ARIMA models |
-| 9 | [Sales Forecasting — ARIMA & SARIMAX](https://github.com/Chiko685/Sales-Demand-Forecasting-Using-ARIMA-SARIMAX.git) | Python, SARIMAX | Time-series forecasting with seasonal adjustments |
-| 10 | [Supply Chain Performance Dashboard](https://github.com/Chiko685/Supply-Chain-Performance-Dashboard-.git) | Tableau | KPI dashboard tracking supply chain efficiency metrics |
-| 11 | [Instagram Benchmarking Analysis](https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-.git) | Python | Social media performance benchmarking analysis |
-| 12 | [Linear Regression — Fuel & Emissions](https://github.com/Chiko685/Simple-Linear-Regression-Fuel-Consumption-Emissions-Analysis.git) | Python, Scikit-learn | Predicting CO2 emissions from fuel consumption data |
-| 13 | [Advanced SQL — Maven Fuzzy Factory](https://github.com/Chiko685/Marketing-Analytics---Maven-Fuzzy-Factory.git) | SQL | Traffic and conversion optimization using advanced SQL |
-| 14 | [Marketing Analytics Dashboard — Ad Performance](https://github.com/Chiko685/2.-Marketing-Analytics-Dashboard-for-Evaluating-Ad-Performance-Using-CTR-CPC-CPM-and-Ad-Recall-Lift.git) | Tableau | CTR, CPC, CPM and Ad Recall Lift evaluation dashboard |
-| 15 | [Customer Segmentation — K-Means](https://github.com/Chiko685/Customer-Segmentation-using-K-Means-Clustering.git) | Python | K-Means clustering by Age, Income, Spending Score |
-| 16 | [RFM Segmentation + Tableau Dashboard](https://github.com/Chiko685/Turning-Data-into-Marketing-Insights-SQL-RFM-Segmentation-Tableau-Sales-Dashboard.git) | SQL, PostgreSQL, Tableau | RFM customer segmentation + interactive sales dashboard |
-| 17 | [A/B Testing — Marketing Campaign & Funnel](https://github.com/Chiko685/A-B-Testing-Marketing-Campaign-Funnel-Analysis-Tableau-.git) | Tableau | Full funnel A/B test analysis comparing 2 ad campaigns |
-| 18 | [Customer Cohort Retention Analysis - Google BigQuery SQL + Tableau Dashboard](https://github.com/Chiko685/Customer-Cohort-Retention-Analysis---Bigquery-Tableau.git) | Big Query, Tableau | Google BigQuery for data cleaning and cohort calculation using Tableau |
+| 1 | [Kaggle API — Python & SQL](https://github.com/Chiko685/kaggle-api-python-sql.git) | Python, Pandas, Kaggle API, PostgreSQL | Automated data extraction pipeline using Kaggle API |
+| 2 | [Sales & Profit Dashboard](https://github.com/Chiko685/Sales-Profit-Dashboard-in-Excel.git) | Excel(data cleaning, analysis, visualization), Pivot Tables| P&L dashboard with pivot tables and dynamic charts |
+| 3 | [Netflix Data Analysis](https://github.com/Chiko685/Netflix-Data-Analyst-Project-Python-SQL-.git) | Python, Pandas, PostgreSQL | Exploratory analysis of Netflix content library |
+| 4 | [AWS JSON Flattening — ETL Pipeline](https://github.com/Chiko685/AWS-JSON-Flattening-ETL-Pipeline.git) | Python, AWS Lambda, AWS Glue, AWS Athena| ETL pipeline to flatten and process nested JSON data |
+| 5 | [COVID Visualization](https://github.com/Chiko685/Covid-Analysis-using-Python.git) | Python, Matplotlib(Plotly Express), Pandas, Numpy, Seaborn | Global COVID-19 trend visualization and analysis |
+| 6 | [Uber NYC Data Analysis](https://github.com/Chiko685/Uber-New-York-City-Data-Analysis.git) | Python, Pandas, Numpy, Seaborn, Matplotlib | Ride pattern analysis across New York City |
+| 7 | [Pizza Sales — SQL & Tableau](https://github.com/Chiko685/Pizza-Sales-SQL-Tableau-Project.git) | PostgreSQL, Tableau | Sales analysis and dashboard for a pizza restaurant |
+| 8 | [Demand Forecasting — Naive & ARIMA](https://github.com/Chiko685/Demand-Forecasting-Simple-Naive-Forecast-Seasonal-naive-Forecast-ARIMA-Model-.git) | Python, Pandas, Numpy, Seaborn, Statsmodels, Scikit-learn, ARIMA, Simple Naive Forecast, Seasonal Naive Forecast | Compared Simple Naive, Seasonal Naive, and ARIMA models |
+| 9 | [Sales Forecasting — ARIMA & SARIMAX](https://github.com/Chiko685/Sales-Demand-Forecasting-Using-ARIMA-SARIMAX.git) | Python, Pandas, Numpy, Seaborn, Statsmodels, ARIMA, SARIMAX | Time-series forecasting with seasonal adjustments |
+| 10 | [Supply Chain Performance Dashboard](https://github.com/Chiko685/Supply-Chain-Performance-Dashboard-.git) | Tableau Public| KPI dashboard tracking supply chain efficiency metrics |
+| 11 | [Instagram Benchmarking Analysis](https://github.com/Chiko685/Benchmarking-Social-Media-Instagram-.git) | Python, Meta Graph API, Pandas, Matplotlib (plotly express) | Social media performance benchmarking analysis |
+| 12 | [Linear Regression — Fuel & Emissions](https://github.com/Chiko685/Simple-Linear-Regression-Fuel-Consumption-Emissions-Analysis.git) | Python, Scikit-learn, Numpy, Pandas, Matplotlib | Predicting CO2 emissions from fuel consumption data |
+| 13 | [Advanced SQL — Maven Fuzzy Factory](https://github.com/Chiko685/Marketing-Analytics---Maven-Fuzzy-Factory.git) | PostgreSQL | Traffic and conversion optimization using advanced SQL |
+| 14 | [Marketing Analytics Dashboard — Ad Performance](https://github.com/Chiko685/2.-Marketing-Analytics-Dashboard-for-Evaluating-Ad-Performance-Using-CTR-CPC-CPM-and-Ad-Recall-Lift.git) | Tableau Public | CTR, CPC, CPM and Ad Recall Lift evaluation dashboard |
+| 15 | [Customer Segmentation — K-Means](https://github.com/Chiko685/Customer-Segmentation-using-K-Means-Clustering.git) | Python, Pandas, Numpy, Matplotlib, Seaborn | K-Means clustering by Age, Income, Spending Score |
+| 16 | [RFM Segmentation + Tableau Dashboard](https://github.com/Chiko685/Turning-Data-into-Marketing-Insights-SQL-RFM-Segmentation-Tableau-Sales-Dashboard.git) | PostgreSQL, Tableau Public| RFM customer segmentation + interactive sales dashboard |
+| 17 | [A/B Testing — Marketing Campaign & Funnel](https://github.com/Chiko685/A-B-Testing-Marketing-Campaign-Funnel-Analysis-Tableau-.git) | Excel(data cleaning), Tableau Public| Full funnel A/B test analysis comparing 2 ad campaigns |
+| 18 | [Customer Cohort Retention Analysis - Google BigQuery SQL + Tableau Dashboard](https://github.com/Chiko685/Customer-Cohort-Retention-Analysis---Bigquery-Tableau.git) | Google Big Query, Tableau Public| Google BigQuery for data cleaning and cohort calculation using Tableau |
 
 
 ---
