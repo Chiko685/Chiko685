@@ -86,7 +86,8 @@ Built time-series forecasting models (Naive, ARIMA, SARIMAX) to predict future s
 | 16 | [RFM Segmentation + Tableau Dashboard](https://github.com/Chiko685/Turning-Data-into-Marketing-Insights-SQL-RFM-Segmentation-Tableau-Sales-Dashboard.git) | PostgreSQL, Tableau Public| RFM customer segmentation + interactive sales dashboard |
 | 17 | [A/B Testing — Marketing Campaign & Funnel](https://github.com/Chiko685/A-B-Testing-Marketing-Campaign-Funnel-Analysis-Tableau-.git) | Excel(data cleaning), Tableau Public| Full funnel A/B test analysis comparing 2 ad campaigns |
 | 18 | [Customer Cohort Retention Analysis - Google BigQuery SQL + Tableau Dashboard](https://github.com/Chiko685/Customer-Cohort-Retention-Analysis---Bigquery-Tableau.git) | Google Big Query, Tableau Public| Google BigQuery for data cleaning and cohort calculation using Tableau |
-
+| 19 | [Full Funnel Marketing - Digital Campaign Dropship Jakmall](https://github.com/Chiko685/Digital-Campaign-Strategy-Jakmall---Full-Funnel-Marketing-project-internship.git) |
+| 20 | [Full Funnel Marketing (TOFU, MOFU, BOFU) - Platform Jual Beli Mobil Bekas](https://github.com/Chiko685/Full-Funnel-Marketing-tofu-mofu-bofu-Platform-Mobil-Bekas-.git) |
 
 ---
 
