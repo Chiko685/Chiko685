@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ika-w888/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikawahyuniftp@gmail.com)
 
-👩🏻‍💻 Entry-level Data Analyst passionate about turning raw data into actionable insights<br/>
+👩🏻‍💻 I am a Marketing Analyst, passionate about turning raw data into actionable insights<br/>
 🎯 Specialized in **SQL, Python & Tableau** | Interested in Data Analyst / Business Analyst roles<br/>
 👩🏻‍🎓 Bachelor's degree in Food Technology — University of Jember, Indonesia<br/>
 💭 Currently improving my skills at [Coursera](https://coursera.org/) and [Pacmann Academy](https://pacmann.io/)<br/>
@@ -88,18 +88,6 @@ Built time-series forecasting models (Naive, ARIMA, SARIMAX) to predict future s
 | 18 | [Customer Cohort Retention Analysis - Google BigQuery SQL + Tableau Dashboard](https://github.com/Chiko685/Customer-Cohort-Retention-Analysis---Bigquery-Tableau.git) | Google Big Query, Tableau Public| Google BigQuery for data cleaning and cohort calculation using Tableau |
 | 19 | [Full Funnel Marketing - Digital Campaign Dropship Jakmall](https://github.com/Chiko685/Digital-Campaign-Strategy-Jakmall---Full-Funnel-Marketing-project-internship.git) |
 | 20 | [Full Funnel Marketing (TOFU, MOFU, BOFU) - Platform Jual Beli Mobil Bekas](https://github.com/Chiko685/Full-Funnel-Marketing-tofu-mofu-bofu-Platform-Mobil-Bekas-.git) |
-
----
-
-## 🏢 Job Simulations & Internships
-
-<img width="559" height="308" alt="Job Simulations" src="https://github.com/user-attachments/assets/fbe4ab8a-3979-4bc0-a4e9-a81fafbc6c77" />
-
----
-
-## 💼 Work Experience
-
-<img width="559" height="405" alt="Work Experience" src="https://github.com/user-attachments/assets/4f1af97d-c0fc-4179-a27f-1eaa5385f4c2" />
 
 ---
 
